@@ -56,6 +56,7 @@ class VetControllerTests {
 		james = new Vet();
 		james.setFirstName("James");
 		james.setLastName("Carter");
+		james.setAge(30);
 		james.setId(1);
 		helen = new Vet();
 		helen.setFirstName("Helen");
